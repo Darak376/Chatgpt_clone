@@ -1,0 +1,19 @@
+# ChatGPT Clone - React Native & Web App
+
+## Step 1: Development Environment Setup (Windows)
+
+### Tools Installed:
+
+1. _Node-js_ and _npm/yarn_
+2. _React Native CLI_ and _Expo_
+3. _Android Studio_ (for Android emulation)
+4. _VSCode_ (with ESLint, Prettier, React Native Tools)
+5. _Git_ for version control
+
+### Commands to Verify Installation:
+
+- 'node -v' - Verifies Node.js version.
+- 'npm -v' or 'yarn -v' - Verifies npm/yarn installation.
+- 'react-native -v' - Verifies React Native CLI installation.
+- 'expo --version' - Verifies Expo CLI installation.
+- 'git --version' - Verifies Git installation.
